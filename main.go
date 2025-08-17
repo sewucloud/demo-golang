@@ -28,7 +28,6 @@ import (
 // @license.name MIT
 // @license.url https://opensource.org/licenses/MIT
 
-// @host localhost:3000
 // @BasePath /api
 
 type Book struct {
